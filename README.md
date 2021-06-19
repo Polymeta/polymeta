@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polymeta&label=Profile%20views&color=b4a90e&style=flat" alt="polymeta" /> </p>
 
-- 🔭 I’m currently working on [Pixelmon Generations](www.pixelmongenerations.com)
+- 🔭 I’m currently working on [Pixelmon Generations](https://www.pixelmongenerations.com)
 
 - 🌱 I’m currently learning **about the ASP.net framework and about newer Java versions.**
 
