@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Polymeta also known as BlackSpirit</h1>
-<h3 align="center">A young aspiring developer with focus on C# and Java.</h3>
+<h3 align="center">A young aspiring developer with focus on C#, Java and JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polymeta&label=Profile%20views&color=b4a90e&style=flat" alt="polymeta" /> </p>
 
 - 🔭 I’m currently working on [Pixelmon Generations](https://www.pixelmongenerations.com)
 
-- 🌱 I’m currently learning **about the ASP.net framework and about newer Java versions.**
+- 🌱 I’m currently learning **about the ASP.net framework and I'm picking up Vue.js.**
 
 - 👨‍💻 All of my projects are available at [my GitHub page.](https://github.com/Polymeta/)
 
-- 💬 Ask me about **java and C#.**
+- 💬 Ask me about **Java and C#.**
 
 - 📫 How to reach me: **Discord: BlackSpirit#2106**
 
